@@ -25,6 +25,7 @@ karticky.forEach((karticka, index) => {
       } else {
         karta1.disabled = true;
         karta2.disabled = true;
+        otoceneKarty = [];
       }
     }
   });
